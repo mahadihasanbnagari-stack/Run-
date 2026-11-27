@@ -1,0 +1,1 @@
+SAITAMA RUN PWA\nUpload the CONTENTS of this folder to the root of a GitHub repository. Enable GitHub Pages from main / (root). Open the HTTPS Pages URL in Android Chrome and choose Install app or Add to Home screen. Controls: Jump and Slide buttons, or swipe up/down on game area. Offline after first load. Best score stored locally.\n
